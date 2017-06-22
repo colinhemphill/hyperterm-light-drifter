@@ -87,6 +87,12 @@ exports.decorateConfig = (config) => {
         height: 8px;
         shape-rendering: initial !important;
       }
+      .footer_footer .item_item {
+        color: #202221;
+      }
+      .footer_footer:before {
+        background-color: #202221;
+      }
     `
   });
 }

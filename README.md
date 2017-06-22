@@ -24,4 +24,5 @@ plugins: ["hyperterm-light-drifter"]
 
 ## Changelog
 
+- **0.1.1:** Modify styles to improve footer clarity for some extensions.
 - **0.1.0:** Initial release.
